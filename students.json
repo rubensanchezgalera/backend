@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "nombre": "Lucía",
+      "apellido1": "Martínez",
+      "apellido2": "Santos",
+      "email": "lucia.martinez1@example.com",
+      "telefono": "600112233",
+      "fecha_nacimiento": "2001-05-17"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos",
+      "apellido1": "Gómez",
+      "apellido2": "Ruiz",
+      "email": "carlos.gomez2@example.com",
+      "telefono": "600223344",
+      "fecha_nacimiento": "2000-11-03"
+    },
+    {
+      "id": 3,
+      "nombre": "Elena",
+      "apellido1": "Navarro",
+      "apellido2": "Lozano",
+      "email": "elena.navarro3@example.com",
+      "telefono": "600334455",
+      "fecha_nacimiento": "2002-03-22"
+    },
+    {
+      "id": 4,
+      "nombre": "Javier",
+      "apellido1": "Sánchez",
+      "apellido2": "Vera",
+      "email": "javier.sanchez4@example.com",
+      "telefono": "600445566",
+      "fecha_nacimiento": "2001-09-10"
+    },
+    {
+      "id": 5,
+      "nombre": "Marta",
+      "apellido1": "Herrera",
+      "apellido2": "Ortiz",
+      "email": "marta.herrera5@example.com",
+      "telefono": "600556677",
+      "fecha_nacimiento": "2000-12-01"
+    },
+    {
+      "id": 6,
+      "nombre": "Adrián",
+      "apellido1": "Torres",
+      "apellido2": "Gil",
+      "email": "adrian.torres6@example.com",
+      "telefono": "600667788",
+      "fecha_nacimiento": "2002-07-18"
+    },
+    {
+      "id": 7,
+      "nombre": "Paula",
+      "apellido1": "Castillo",
+      "apellido2": "Iglesias",
+      "email": "paula.castillo7@example.com",
+      "telefono": "600778899",
+      "fecha_nacimiento": "2001-01-29"
+    },
+    {
+      "id": 8,
+      "nombre": "Sergio",
+      "apellido1": "Vargas",
+      "apellido2": "Cano",
+      "email": "sergio.vargas8@example.com",
+      "telefono": "600889900",
+      "fecha_nacimiento": "2002-10-14"
+    },
+    {
+      "id": 9,
+      "nombre": "Ana",
+      "apellido1": "Ramos",
+      "apellido2": "Morales",
+      "email": "ana.ramos9@example.com",
+      "telefono": "600990011",
+      "fecha_nacimiento": "2001-06-07"
+    },
+    {
+      "id": 10,
+      "nombre": "David",
+      "apellido1": "Cortés",
+      "apellido2": "Paredes",
+      "email": "david.cortes10@example.com",
+      "telefono": "600101112",
+      "fecha_nacimiento": "2000-04-19"
+    },
+    {
+      "id": 11,
+      "nombre": "Irene",
+      "apellido1": "Flores",
+      "apellido2": "Montes",
+      "email": "irene.flores11@example.com",
+      "telefono": "600121314",
+      "fecha_nacimiento": "2002-02-11"
+    },
+    {
+      "id": 12,
+      "nombre": "Óscar",
+      "apellido1": "León",
+      "apellido2": "Crespo",
+      "email": "oscar.leon12@example.com",
+      "telefono": "600131415",
+      "fecha_nacimiento": "2001-08-25"
+    },
+    {
+      "id": 13,
+      "nombre": "Sara",
+      "apellido1": "Vidal",
+      "apellido2": "Robles",
+      "email": "sara.vidal13@example.com",
+      "telefono": "600141516",
+      "fecha_nacimiento": "2000-09-30"
+    }
+  ]
+  
